@@ -1,0 +1,2 @@
+# badboyBlogModel
+blog model
